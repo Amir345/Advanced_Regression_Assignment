@@ -1,4 +1,4 @@
-# Housing price prediction using Advance Linear Regression Technique
+# Housing price prediction using Advance Linear Regression
 
 ## Problem Statement
 
